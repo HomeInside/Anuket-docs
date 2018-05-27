@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Anuket Docs',
   description: 'Awesome Google maps Utils.',
-  base: '/projects/anuket',
+  base: '/projects/anuket/',
   themeConfig: {
     dest: 'vuepress',
     sidebar: [{
@@ -25,8 +25,9 @@ module.exports = {
           '/docs/modules/center-over-origin'
         ]
       },
-      '/docs/menu/faq',
+      '/docs/menu/extensions',
       '/docs/menu/references',
+      '/docs/menu/faq',
       '/docs/menu/contribute',
       '/docs/menu/changelog'
     ],
