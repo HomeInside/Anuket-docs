@@ -51,7 +51,7 @@ No, no todas ellas, solo las descritas en los [métodos públicos](/modules/meth
 
 - __¿Puedo agregar una funcionalidad nueva (Ej: Plugin) de forma sencilla?__
 
-No de momento, Para evitar que Anuket se hinche demasiado para usarla, introduciremos algún tipo de sistema de complementos para habilitar la incorporación de características adicionales.
+~~No de momento~~, Sí, Para evitar que __Anuket__ se hinche demasiado para usarla, introduciremos algún tipo de sistema de complementos para habilitar la incorporación de [características adicionales](/docs/menu/extensions.html#extensiones).
 
 - __¿Como puedo contribuir?__
 
