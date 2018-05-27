@@ -1,6 +1,6 @@
-# Anuket
+# Anuket-docs
 
-Awesome [Google maps](https://developers.google.com/maps/?hl=es-419) Utils.
+Documentación de __Anuket__, Awesome [Google maps](https://developers.google.com/maps/?hl=es-419) Utils.
 
 
 ## Versión estable
@@ -8,11 +8,11 @@ Puedes descargar la versión estable del proyecto [por aquí](https://github.com
 
 
 ## Listado de Cambios
-El listado completo de cambios (changelog), [por aquí](/menu/changelog.html#lista-de-cambios)
+El listado completo de cambios (changelog), [por aquí](/docs/menu/changelog.html#lista-de-cambios)
 
 
 ## Licencia
-El texto completo de la licencia puede ser encontrado en el archivo __MIT-LICENSE.txt__
+El texto completo de la licencia puede ser encontrado en el archivo __MIT-LICENSE.txt__.
 
 
 ## Contacto

@@ -10,7 +10,7 @@ A continuación exponemos una lista de preguntas y respuestas comunes, que puede
 
 [ECMAScript 5.1](https://www.w3schools.com/js/js_versions.asp) (A.K.A. ES5)
 
-- __¿Por qué utilizar ECMAScript 5, y no TypeScript, CoffeeScript, Flow, etc...?__
+- __¿Por qué utilizar ECMASicript 5, y no TypeScript, CoffeeScript, Flow, etc...?__
 
 Al utilizar ECMAScript 5.1, es [Javascript vanilla](https://plainjs.com), el de toda la vida, puede ejecutarse en cualquier navegador actual, sin necesidad de pasarlo por un transpilador (Ej: Babel) y al estar desarrollado como un modulo [__IIFE__](https://developer.mozilla.org/es/docs/Glossary/IIFE) permite su integración en cualquier sitio web, ó frameworks Javascript actuales (angular, ember, Backbone etc...) sin configuraciones adicionales.
 
@@ -20,7 +20,7 @@ Al utilizar ECMAScript 5.1, es [Javascript vanilla](https://plainjs.com), el de 
 
 - __¿Cero configuración?__
 
-Si, una vez hecha la [instalación](/guide/installation.html#instalacion) y solventado los [requisitos](/guide/requirements.html#requisitos) es tan sencillo como:
+Si, una vez hecha la [instalación](/docs/guide/installation.html#instalacion) y solventado los [requisitos](/docs/guide/requirements.html#requisitos) es tan sencillo como:
 
 Crear el contenedor del mapa:
 ```html
@@ -34,7 +34,7 @@ Anuket.run('#themap');
 
 - __¿El mapa no carga, ó no se muestra correctamente, que puede haber pasado?__
 
-Asegurate de que los [requisitos esten cumplidos](/guide/requirements.html#requisitos) y que hayas [iniciado bien Anuket](/modules/run.html#run).
+Asegurate de que los [requisitos esten cumplidos](/docs/guide/requirements.html#requisitos) y que hayas [iniciado bien Anuket](/docs/modules/run.html#run).
 Adicionalmente recuerda proveer [una clave de API para Maps](https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl=es-419#key)
 
 - __¿La documentación esta actualizada con respecto a la ultima version de Anuket?__
@@ -47,7 +47,7 @@ Buscamos buenas alternativas como [Docsify](https://docsify.js.org/#/) y [Docusa
 
 - __¿Esta documentación abarca las funcionalidades de Google Maps API?__
 
-No, no todas ellas, solo las descritas en los [métodos públicos](/modules/methods.html#metodos-publicos)
+No, no todas ellas, solo las descritas en los [métodos públicos](/docs/modules/methods.html#metodos-publicos)
 
 - __¿Puedo agregar una funcionalidad nueva (Ej: Plugin) de forma sencilla?__
 
