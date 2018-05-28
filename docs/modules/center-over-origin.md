@@ -1,7 +1,7 @@
 # centerOverOrigin
-Permite centrar el mapa base, en la Localización geográfica definida al inicio de la ejecución (método [run](/modules/run.html#run)).
+Permite centrar el mapa base, en la Localización geográfica definida al inicio de la ejecución (método [run](/docs/modules/run.html#run)).
 
-De forma __opcional,__ permite establecer un nivel de [zoom](/modules/zoom.html#zoom).
+De forma __opcional,__ permite establecer un nivel de [zoom](/docs/modules/zoom.html#zoom).
 
 ## Lista de Parámetros:
 El método __centerOverOrigin__ espera un parametro:
