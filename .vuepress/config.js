@@ -23,7 +23,10 @@ module.exports = {
           '/docs/modules/zoom',
           '/docs/modules/center-map',
           '/docs/modules/center-over-origin',
-          '/docs/modules/street-view'
+          '/docs/modules/street-view',
+          '/docs/modules/get-origin-position',
+          '/docs/modules/clear-map',
+          '/docs/modules/remove-markers'
         ]
       },
       '/docs/menu/extensions',
